@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#image{
+    width: 400px;
+}
+
+#searchBarContainer{
+    display: flex;
+    justify-content: center;
+}
+
+#searchBar {
+    width: 380px;
+    flex: 0 1 auto;
+}
